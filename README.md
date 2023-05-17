@@ -40,4 +40,4 @@ Las contribuciones son bienvenidas. Si encuentras algún error o tienes alguna s
 
 ## Licencia
 
-Este programa fur desarrollado por [Kevin Bayter](https://www.bcod3r.com).
+Este programa fue desarrollado por [Kevin Bayter](https://www.bcod3r.com).
